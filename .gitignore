@@ -22,3 +22,23 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# STS / Eclipse Metadata
+.metadata/
+.classpath
+.project
+.settings/
+
+# Build Files & Class Files
+target/
+bin/
+*.class
+*.jar
+*.war
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
