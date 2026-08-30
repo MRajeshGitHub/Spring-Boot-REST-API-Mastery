@@ -42,3 +42,20 @@ bin/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Build outputs
+**/target/
+**/*.class
+
+# IDE files
+**/.settings/
+**/.project
+**/.classpath
+**/.factorypath
+**/.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
